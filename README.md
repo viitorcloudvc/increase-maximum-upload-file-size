@@ -1,13 +1,16 @@
 # increase-maximum-upload-file-size
 This plugin is used for increase media upload file size.
 
-=== Plugin Name ===
-
 Contributors: kinjaldalwadi, viitorcloudvc
+
 Donate link: http://www.viitorcloud.com
+
 Tags: max upload file size, increase media upload file size, media upload, upload maximum file size, increase file size, file size 75MB
+
 Requires at least: 3.0
+
 Tested up to: 5.1.1 
+
 Stable tag: trunk
 
 == Description ==
